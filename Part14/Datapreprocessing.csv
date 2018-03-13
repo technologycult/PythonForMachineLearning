@@ -1,0 +1,21 @@
+Country,Age,Gender,Occupation,Employment Status,Employement Type,Salary,Purchased
+Poland,34,Male,Salaried,Yes,Permanent,72000,No
+Spain,42,Female,Business,Yes,Temporary,48000,Yes
+Germany,29,Male,Business,No,Temporary,54000,No
+Spain,38,Male,Business,No,Permanent,61000,No
+Germany,32,Male,Salaried,,Permanent,,Yes
+Poland,31,Female,Business,Yes,Temporary,58000,Yes
+India,,Female,Salaried,,Temporary,52000,No
+Poland,22,Female,Salaried,Yes,Self Employed,79000,Yes
+India,38,Male,Business,No,,,No
+Poland,49,Male,,Yes,Self Employed,67000,Yes
+Brazil,34,Male,Salaried,No,Permanent,70000,No
+Spain,42,Female,Business,No,Temporary,48000,Yes
+Germany,29,Female,Business,No,Temporary,54000,No
+Spain,38,Male,Business,No,Permanent,61000,No
+Germany,,Male,Salaried,Yes,Permanent,,Yes
+Brazil,32,Female,Business,Yes,Temporary,58000,Yes
+Spain,,Female,Salaried,Yes,Temporary,52000,Yes
+England,22,Female,Salaried,Yes,,85000,Yes
+Germany,38,Male,Business,Yes,,,No
+England,45,Male,,,Self Employed,67000,Yes
